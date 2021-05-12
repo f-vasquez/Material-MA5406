@@ -23,11 +23,11 @@ Programa del curso:
 En el repositorio encontrarán principalmente dos tipos de notebooks:
 
 Materia:
-1. KMeans
+1. [KMeans](material/KMeans.ipynb)
 
 Proyectos:
-1. Happiness World Index, Clustering
-2. Breast Cancer, Prediction
+1. [Happiness World Index, Clustering](breast_cancer_project/)
+2. [Breast Cancer, Prediction](happiness_index_project)
 
 ## Otros:
 
